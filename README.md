@@ -1,4 +1,4 @@
-My peronal tmux and neovim config
+My personal tmux and neovim config
 
 - tmux config
 - neovim config
